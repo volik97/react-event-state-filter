@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/flfkwipb44vvg6ox?svg=true)](https://ci.appveyor.com/project/volik97/react-event-state-filter)
